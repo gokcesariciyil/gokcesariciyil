@@ -44,7 +44,7 @@
 
 # AI PROJECTS
 
-📈 Reinforcement Learning for Trading
+# 📈 Reinforcement Learning for Trading
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![RL](https://img.shields.io/badge/Reinforcement%20Learning-1E90FF?style=for-the-badge)
@@ -52,7 +52,7 @@
 ![Actor-Critic](https://img.shields.io/badge/Actor--Critic-FFA500?style=for-the-badge)
 
 
-🏨 Hotel Recommendation System (GNN)
+# 🏨 Hotel Recommendation System (GNN)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GNN](https://img.shields.io/badge/Graph%20Neural%20Networks-6A5ACD?style=for-the-badge)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -60,7 +60,7 @@
 ![Sklearn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-🏛️ Historical Place Recognition
+# 🏛️ Historical Place Recognition
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Cascade Classifier](https://img.shields.io/badge/Cascade%20Classifier-4682B4?style=for-the-badge)
@@ -68,7 +68,7 @@
 ![Wikipedia API](https://img.shields.io/badge/Wikipedia%20API-000000?style=for-the-badge&logo=wikipedia&logoColor=white)
 
 
-🗂️ NLP Multi-Class Text Classification
+# 🗂️ NLP Multi-Class Text Classification
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-0073B7?style=for-the-badge)
 ![Naive Bayes](https://img.shields.io/badge/Naive%20Bayes-20B2AA?style=for-the-badge)
@@ -78,20 +78,20 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge)
 
 
-📃 OCR for Document Automation (Tesseract Fine-tuning)
+# 📃 OCR for Document Automation (Tesseract Fine-tuning)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tesseract](https://img.shields.io/badge/Tesseract%20OCR-4285F4?style=for-the-badge)
 ![OCR](https://img.shields.io/badge/OCR-8A2BE2?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-228B22?style=for-the-badge)
 
-🔍 YOLO Object Detection for Financial Security
+# 🔍 YOLO Object Detection for Financial Security
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-F9D923?style=for-the-badge)
 ![Object Detection](https://img.shields.io/badge/Object%20Detection-FF6347?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-228B22?style=for-the-badge)
 
 
-🧬 U-Net & Autoencoders for Fraud Detection
+# 🧬 U-Net & Autoencoders for Fraud Detection
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![U-Net](https://img.shields.io/badge/U--Net-7627AE?style=for-the-badge)
 ![Autoencoder](https://img.shields.io/badge/Autoencoder-BC8F8F?style=for-the-badge)
@@ -99,13 +99,13 @@
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-228B22?style=for-the-badge)
 
 
-🏷️ Dataset Creation with LabelImg
+# 🏷️ Dataset Creation with LabelImg
 ![LabelImg](https://img.shields.io/badge/LabelImg-FF69B4?style=for-the-badge)
 ![Custom Dataset](https://img.shields.io/badge/Custom%20Dataset-4682B4?style=for-the-badge)
 ![Annotation Tool](https://img.shields.io/badge/Annotation%20Tool-DAA520?style=for-the-badge)
 
 
-🧾 BERT/BERTurk Classification for Banking Operations
+# 🧾 BERT/BERTurk Classification for Banking Operations
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![BERT](https://img.shields.io/badge/BERT-FF6F91?style=for-the-badge)
 ![BERTurk](https://img.shields.io/badge/BERTurk-FF8C00?style=for-the-badge)
