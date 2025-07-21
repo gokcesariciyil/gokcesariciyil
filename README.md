@@ -14,6 +14,8 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 
+
+
 # 🧠 Architectures / Models
 ![U-Net](https://img.shields.io/badge/U--Net-%237627AE.svg?style=for-the-badge&logo=github&logoColor=white)
 ![ResNet](https://img.shields.io/badge/ResNet-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -23,14 +25,22 @@
 ![GNN](https://img.shields.io/badge/Graph%20Neural%20Networks-%23FF6F91.svg?style=for-the-badge&logo=graphql&logoColor=white)
 
 
+
+
 # 🔁 RL & Recommendation
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Trading Bot](https://img.shields.io/badge/Trading%20Bot-%2300D09C.svg?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Hotel Recommendation](https://img.shields.io/badge/Hotel%20Recommender-%23FF7F50.svg?style=for-the-badge&logo=airbnb&logoColor=white)
 
+
+
+
 # 🧾 NLP / RAG
 ![NLP](https://img.shields.io/badge/NLP-%230073B7.svg?style=for-the-badge&logo=spacy&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-%23F5365C.svg?style=for-the-badge&logo=openai&logoColor=white)
+
+
+
 
 
 
